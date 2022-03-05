@@ -1,0 +1,44 @@
+AKAI Professional MPD 218
+
+Page: https://www.akaipro.com/mpd218
+
+Manual: https://www.akaipro.com/amfile/file/download/file/1140/product/3/
+
+Pads: 16, 4x4, 3 banks (A, B, C). On Channel 10, fixed.
+Represent individually?  As set?  Difference between pads with labels and virtual pads - ID/IDREF parallel for link?
+
+Knobs: 6, 2x3, 360-degree infinite potentiometers, 3 banks (A, B, C).  On Channel 1, fixed.
+
+Prog Select button - need to figure out what that does!
+
+Internal / external clock
+
+Not MIDI - Ctrl Bank, prog select, Pad Bank, Full level, NR Config, Note Repeat
+
+Does not appear to receive info to light pads
+
+
+Korg nanoKontrol2
+
+Channel 1 - 
+Faders on 0-7 (appear suddenly when moved)
+Knobs - 16-23 (appear suddenly when moved)
+Track left - 58 (brief 127)
+Track right - 59
+Marker set - 60
+Marker <- - 61 
+Marker -> - 62
+Rewind - 43
+FF - 44
+Stop - 42
+Play - 41
+Record 45
+
+SMR 0 - 32, 48, 64
+SMR 1 - 33, 49, 65
+SMR 2 - 34, 50, 66
+SMR 3 - 35, 51, 67
+SMR 4 - 36, 52, 68
+SMR 5 - 37, 53, 69
+SMR 6 - 38, 54, 70
+SMR 7 - 39, 55, 71
