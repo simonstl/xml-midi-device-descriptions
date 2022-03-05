@@ -1,2 +1,3 @@
-# xml-midi-device-descriptions
+# XML MIDI Device Descriptions
+
 Describing MIDI device interfaces with XML
