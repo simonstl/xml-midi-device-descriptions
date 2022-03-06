@@ -4,6 +4,10 @@ Page: https://www.akaipro.com/mpd218
 
 Manual: https://www.akaipro.com/amfile/file/download/file/1140/product/3/
 
+Editable with MPD218 Editor from https://www.akaipro.com/mpd218 
+
+Presets available: https://github.com/mungewell/mpd-utils 
+
 Pads: 16, 4x4, 3 banks (A, B, C). On Channel 10, fixed.
 A: C2(36) - D#3(51)
 B: E3 (52) - G4(67)
@@ -43,10 +47,14 @@ Internal / external clock
 
 Not MIDI - Ctrl Bank, prog select, Pad Bank, Full level, NR Config, Note Repeat
 
-Does not appear to receive info to light pads
+Does appear to receive info to light pads (in Melodics)
 
 
 Korg nanoKontrol2
+
+Page: https://www.korg.com/us/products/computergear/nanokontrol2/
+
+KorgKontrol Editor at https://www.korg.com/us/products/computergear/nanokontrol2/ 
 
 Channel 1 - 
 Faders on 0-7 (appear suddenly when moved)
@@ -70,3 +78,51 @@ SMR 4 - 36, 52, 68
 SMR 5 - 37, 53, 69
 SMR 6 - 38, 54, 70
 SMR 7 - 39, 55, 71
+
+Yamaha PSS-A50
+
+Voices
+MSB 0, LSB 0
+
+Voice 1 PC 1 Grand Piano
+Voice 2 PC 5 Electric Piano 1
+Voice 3 PC 6 Electric Piano 2
+Voice 4 PC 3 Electric Grand Piano
+Voice 5 PC 17 Drawbar Organ
+Voice 6 PC 19 Rock Organ
+Voice 7 PC 22 Accordion
+Voice 8 PC 23 Harmonica
+Voice 9 PC 25 Nylon Guitar
+Voice 10 PC 26 Steel Guitar
+Voice 11 PC 27 Jazz Guitar
+Voice 12 PC 28 Clean guitar
+Voice 13 PC 30 Overdriven Guitar
+Voice 14 PC 33 Acoustic Bass
+Voice 15 PC 34 Finger Bass
+Voice 16 PC 37 Slap Bass
+Voice 17 PC 39 Synth Bass
+Voice 18 PC 49 Strings
+Voice 19 PC 46 Pizzicato Strings
+Voice 20 PC 41 Violin
+Voice 21 PC 43 Cello
+Voice 22 PC 47 Orchestral Harp
+Voice 23 PC 69 Oboe
+Voice 24 PC 72 Clarinet
+Voice 25 PC 74 Flute
+Voice 26 PC 67 Tenor Sax
+Voice 27 PC 62 Brass Section
+Voice 28 PC 57 Trumpet
+Voice 29 PC 58 Trombone
+Voice 30 PC 61 French Horn
+Voice 31 PC 63 Synth Brass
+Voice 32 PC 83 Gemini
+Voice 33 PC 85 Punchy Chordz
+Voice 34 PC 81 Square Lead
+Voice 35 PC 82 Sawtooth Lead
+Voice 36 PC 89 New Age Pad
+Voice 37 PC 90 Warm Pad
+Voice 38 PC 101 Brightness
+Voice 39 MSB 127 PC 1 Standard Kit
+Voice 40 MSB 127 PC 28 Dance Kit
+Voice 41 PC 12 Vibraphone
+Voice 42 PC 13 Marimba

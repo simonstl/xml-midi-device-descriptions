@@ -1,0 +1,96 @@
+Yes, you can reprogram many controllers to put out whatever numbers you need, but wouldn't you rather work with meaningful descriptions, and let the computer handle the numbers?
+
+Voice numbers - different on device, plus MIDI from 0 and MIDI from 1
+
+Also a format for describing MIDI device ins and outs and labeling them, with fields for documentation.  (And an interface for creating at least the inputs.)
+Public APIs only
+
+Allow help text for all parts
+
+Matching device/ channel/ messge type
+Sensible default names for CCs
+Eventually graphics options - knobs, faders, light intensities
+Program changes will need to combine multiple values. Other things might too
+Alt display for abstractions
+
+Flag for hardware  / software
+
+Note by note descriptions for drums, samples, etc.
+
+Support both hex and dec, flag if don't match
+
+What does polyphonic aftertouch look like?
+
+Include date updated in XML - for structure, not just file
+Versioning? URL for download latest at
+link to manufacturers page, manual, alt page
+
+General MIDI as useful default
+
+Related CCs - groups?
+Banks of switches and knobs
+Splitting keyboards
+
+Less patch cable metaphor, more listening for
+
+Indicate default or custom
+Make it easier to report if something has changed - test against defaults
+
+Describe physical connectors?
+
+Links to graphics, manuals, maybe block diagrams
+
+Warnings and notes
+Thru - indicate JD-08 headache
+
+Containers hierarchies to override defaults? Or named sets of overrides
+
+Model names and numbers
+
+Labels for configurable patterns, like waveforms
+
+Indicators for steps
+
+Note features not reachable by midi
+Effects pedals
+Allow descriptions of musical devices with no MIDI
+
+Local device setip - multiple DIN?
+
+XSLT for a pretty report, maybe JSON conversion
+
+Github repo for xml descriptions of midi devices.  BSD-2 license for code. Xml-midi-device-descriptions
+
+Quantize pitch and rhythm as transforms.  Streaming vs static
+
+Description linter
+
+
+
+
+
+WebMIDI pipes
+
+define inputs to outputs as groups
+inputs and outputs don't all have to be to the same device
+inputs and outputs can be scalable
+inputs and outputs can be recorded
+allow inputs to change labels on the piping browser
+
+Simple pipes
+Inserting functions
+Sort of a remixing board for data
+Targets as transforms
+Always labels
+Need to figure out naming or numbering conventions and conversions
+Transposition as a simple content transform
+Transform and transfer
+Chord thickening and thinning as transform
+Note on and note off transforms - matching or not?
+Connecting transformations, listening to each other, sometimes finishing.
+Sequences of transformations becoming available and not available.
+A place for dropped things.
+Reporting on the flow.
+Fast things, like pitch bends
+Events need to remember their sources
+Discard or pass along?
