@@ -126,3 +126,12 @@ Voice 39 MSB 127 PC 1 Standard Kit
 Voice 40 MSB 127 PC 28 Dance Kit
 Voice 41 PC 12 Vibraphone
 Voice 42 PC 13 Marimba
+
+
+
+Moog Theremini
+
+out
+MIDI channel 1
+2 - Volume
+20 - Pitch controller

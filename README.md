@@ -1,5 +1,7 @@
 # XML MIDI Device Descriptions
 
+Since 1983, the Musical Instrument Digital Interface (MIDI) has done incredible work connecting musical (and other) devices with a shared but flexible set of numbers and a few basic rules for moving those numbers around.
+
 MIDI controllers and the devices they control are amazing, but it's often hard to tell what's going on.  The MIDI protocol establishes a sophisticated way for devices to communicate with numbers, but figuring out what's happening gets complicated fast.  The manuals for MIDI devices usually specify lists of the data going in and out, how it is structured, and what it means.  However, features often go unnoticed, and integration is usually partial.
 
 This repository defines a format for sharing information about MIDI devices using an XML vocabulary.  The format combines information programs need (channels, CC numbers, etc.) with information that humans can interpret to label and document what's happening.  Computers can also use those labels to create more inviting interfaces.  Because the data is open, people should be able to customize it for their own needs, transform it to other forms, and create their own applications around it.

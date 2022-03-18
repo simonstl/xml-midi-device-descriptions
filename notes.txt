@@ -15,6 +15,15 @@ Alt display for abstractions
 
 Flag for hardware  / software
 
+Pachinko markup processing model
+
+MIDI-CI is a standard for describing options and having MIDI devices communicate.  It's built with the devices in mind more than human interfaces.  Some aspects of MIDI-CI duplicate with this, and in the long run it may be possible to generate some MIDI-CI information from this.  However, MIDI-CI is also not yet widely used.
+
+Inherited attributes/categories - containers share atomic info unless overridden
+
+RFC 6295 is a wire standard, not a description.
+
+
 Note by note descriptions for drums, samples, etc.
 
 Support both hex and dec, flag if don't match
