@@ -1,0 +1,17 @@
+(se)QuenceML
+
+Stretchable transposable sequenceable musical notation
+
+Allow notes to be in a key as numbers (plus octaves) or specified
+Sequences and random possibilities
+Adjustable timings and stretchings
+Base note lengths on 12
+Optional notes can disappear or rearrange in processing, with hints for how to handle
+Multiple voices, able to shift together
+Option to specify basso continuo equivalent, have computer calculate path (actually use BC? Or figure out something clearer?)
+Randomize which things?  Timing?  Appearance?  Voice?
+
+
+Initial output as MIDI, eventual output as MusicXML with measures calculated
+
+WEBMIDI.js as target for initial prototyping
